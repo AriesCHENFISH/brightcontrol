@@ -1,0 +1,282 @@
+[
+  {
+    "id": "dark_001",
+    "category": "dark",
+    "prompt": "a candle-lit dinner table in a very dark room",
+    "target_brightness": "dark",
+    "background_purity": null
+  },
+  {
+    "id": "dark_002",
+    "category": "dark",
+    "prompt": "an abandoned alley at midnight lit by a single street lamp",
+    "target_brightness": "dark",
+    "background_purity": null
+  },
+  {
+    "id": "dark_003",
+    "category": "dark",
+    "prompt": "a rainy city street at night with neon reflections, very dark scene",
+    "target_brightness": "dark",
+    "background_purity": null
+  },
+  {
+    "id": "dark_004",
+    "category": "dark",
+    "prompt": "a violinist playing on a dim stage with only one spotlight",
+    "target_brightness": "dark",
+    "background_purity": null
+  },
+  {
+    "id": "dark_005",
+    "category": "dark",
+    "prompt": "three hikers standing under an almost black night sky, silhouette",
+    "target_brightness": "dark",
+    "background_purity": null
+  },
+  {
+    "id": "dark_006",
+    "category": "dark",
+    "prompt": "a dark cave interior with a faint torch light",
+    "target_brightness": "dark",
+    "background_purity": null
+  },
+  {
+    "id": "dark_007",
+    "category": "dark",
+    "prompt": "a cat sitting in a dim kitchen at night",
+    "target_brightness": "dark",
+    "background_purity": null
+  },
+  {
+    "id": "dark_008",
+    "category": "dark",
+    "prompt": "a narrow street in heavy darkness with only distant lights",
+    "target_brightness": "dark",
+    "background_purity": null
+  },
+  {
+    "id": "bright_001",
+    "category": "bright",
+    "prompt": "a cozy bedroom flooded with bright morning sunlight",
+    "target_brightness": "bright",
+    "background_purity": null
+  },
+  {
+    "id": "bright_002",
+    "category": "bright",
+    "prompt": "a snowy field under harsh midday sunlight, extremely bright",
+    "target_brightness": "bright",
+    "background_purity": null
+  },
+  {
+    "id": "bright_003",
+    "category": "bright",
+    "prompt": "an overexposed studio portrait on a seamless white background",
+    "target_brightness": "bright",
+    "background_purity": null
+  },
+  {
+    "id": "bright_004",
+    "category": "bright",
+    "prompt": "a beach at noon under intense sunlight, extremely bright",
+    "target_brightness": "bright",
+    "background_purity": null
+  },
+  {
+    "id": "bright_005",
+    "category": "bright",
+    "prompt": "a white marble hallway filled with strong daylight",
+    "target_brightness": "bright",
+    "background_purity": null
+  },
+  {
+    "id": "bright_006",
+    "category": "bright",
+    "prompt": "a city square under harsh summer noon light",
+    "target_brightness": "bright",
+    "background_purity": null
+  },
+  {
+    "id": "bright_007",
+    "category": "bright",
+    "prompt": "a bright greenhouse interior with sunlight everywhere",
+    "target_brightness": "bright",
+    "background_purity": null
+  },
+  {
+    "id": "bright_008",
+    "category": "bright",
+    "prompt": "a bright sunlit rooftop with washed-out highlights",
+    "target_brightness": "bright",
+    "background_purity": null
+  },
+  {
+    "id": "backlight_001",
+    "category": "backlight",
+    "prompt": "a person standing in front of a bright window, strong backlighting, silhouette",
+    "target_brightness": "neutral",
+    "background_purity": null
+  },
+  {
+    "id": "backlight_002",
+    "category": "backlight",
+    "prompt": "tree branches against a glowing sunset sky, extreme backlighting",
+    "target_brightness": "neutral",
+    "background_purity": null
+  },
+  {
+    "id": "backlight_003",
+    "category": "backlight",
+    "prompt": "a cyclist riding toward the sun, strong lens flare, silhouette",
+    "target_brightness": "neutral",
+    "background_purity": null
+  },
+  {
+    "id": "backlight_004",
+    "category": "backlight",
+    "prompt": "a black cat standing in a bright doorway, strong backlighting",
+    "target_brightness": "neutral",
+    "background_purity": null
+  },
+  {
+    "id": "backlight_005",
+    "category": "backlight",
+    "prompt": "two dancers in front of stage lights, silhouette",
+    "target_brightness": "neutral",
+    "background_purity": null
+  },
+  {
+    "id": "backlight_006",
+    "category": "backlight",
+    "prompt": "a runner on the beach facing the low sun, silhouette",
+    "target_brightness": "neutral",
+    "background_purity": null
+  },
+  {
+    "id": "backlight_007",
+    "category": "backlight",
+    "prompt": "a child standing by a bright curtain, backlit portrait",
+    "target_brightness": "neutral",
+    "background_purity": null
+  },
+  {
+    "id": "backlight_008",
+    "category": "backlight",
+    "prompt": "a mountain hiker against the sun, silhouette",
+    "target_brightness": "neutral",
+    "background_purity": null
+  },
+  {
+    "id": "white_bg_001",
+    "category": "white_bg",
+    "prompt": "a white ceramic mug product photo on a pure white background",
+    "target_brightness": "neutral",
+    "background_purity": "white"
+  },
+  {
+    "id": "white_bg_002",
+    "category": "white_bg",
+    "prompt": "a minimalist black logo centered on a pure white background",
+    "target_brightness": "neutral",
+    "background_purity": "white"
+  },
+  {
+    "id": "white_bg_003",
+    "category": "white_bg",
+    "prompt": "a red lipstick product photo on a pure white background",
+    "target_brightness": "neutral",
+    "background_purity": "white"
+  },
+  {
+    "id": "white_bg_004",
+    "category": "white_bg",
+    "prompt": "a pair of sunglasses on a seamless pure white background",
+    "target_brightness": "neutral",
+    "background_purity": "white"
+  },
+  {
+    "id": "white_bg_005",
+    "category": "white_bg",
+    "prompt": "a toy robot isolated on a pure white background",
+    "target_brightness": "neutral",
+    "background_purity": "white"
+  },
+  {
+    "id": "white_bg_006",
+    "category": "white_bg",
+    "prompt": "a simple line-art icon centered on a pure white background",
+    "target_brightness": "neutral",
+    "background_purity": "white"
+  },
+  {
+    "id": "white_bg_007",
+    "category": "white_bg",
+    "prompt": "a perfume bottle product photo on a pure white background",
+    "target_brightness": "neutral",
+    "background_purity": "white"
+  },
+  {
+    "id": "white_bg_008",
+    "category": "white_bg",
+    "prompt": "a wristwatch isolated on a seamless pure white background",
+    "target_brightness": "neutral",
+    "background_purity": "white"
+  },
+  {
+    "id": "black_bg_001",
+    "category": "black_bg",
+    "prompt": "a luxury watch product photo on a pure black background",
+    "target_brightness": "neutral",
+    "background_purity": "black"
+  },
+  {
+    "id": "black_bg_002",
+    "category": "black_bg",
+    "prompt": "a glass perfume bottle on a pure black background, studio lighting",
+    "target_brightness": "neutral",
+    "background_purity": "black"
+  },
+  {
+    "id": "black_bg_003",
+    "category": "black_bg",
+    "prompt": "a gold ring isolated on a pure black background",
+    "target_brightness": "neutral",
+    "background_purity": "black"
+  },
+  {
+    "id": "black_bg_004",
+    "category": "black_bg",
+    "prompt": "a crystal glass on a pure black background with reflections",
+    "target_brightness": "neutral",
+    "background_purity": "black"
+  },
+  {
+    "id": "black_bg_005",
+    "category": "black_bg",
+    "prompt": "a black camera lens product shot on a pure black background",
+    "target_brightness": "neutral",
+    "background_purity": "black"
+  },
+  {
+    "id": "black_bg_006",
+    "category": "black_bg",
+    "prompt": "a silver necklace isolated on a pure black background",
+    "target_brightness": "neutral",
+    "background_purity": "black"
+  },
+  {
+    "id": "black_bg_007",
+    "category": "black_bg",
+    "prompt": "a wine bottle studio shot on a pure black background",
+    "target_brightness": "neutral",
+    "background_purity": "black"
+  },
+  {
+    "id": "black_bg_008",
+    "category": "black_bg",
+    "prompt": "a candle in darkness on a pure black background",
+    "target_brightness": "neutral",
+    "background_purity": "black"
+  }
+]
