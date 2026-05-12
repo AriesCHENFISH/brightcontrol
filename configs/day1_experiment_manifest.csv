@@ -1,0 +1,15 @@
+experiment_id,stage,task_type,model_name,model_path,benchmark,input_file,output_dir,status,gpu_plan,priority,depends_on,notes
+smoke_sdxl_promptbench16,2_smoke,inference,sdxl_frozen,/data1/cx/sdxl,PromptBench-16,benchmarks/promptbench_160.json,results/day1_stage2_smoke/sdxl/,planned,1xGPU,high,stage1,First 16 prompts
+smoke_sd35_promptbench16,2_smoke,inference,sd35_medium_frozen,/data1/cx/sd35-medium,PromptBench-16,benchmarks/promptbench_160.json,results/day1_stage2_smoke/sd35/,planned,1xGPU,high,stage1,SD3Pipeline needed
+smoke_flux_promptbench16,2_smoke,inference,flux_frozen,/data1/cx/flux,PromptBench-16,benchmarks/promptbench_160.json,results/day1_stage2_smoke/flux/,planned,1xGPU,high,stage1,"FluxPipeline, 23.8GB - needs offload"
+frozen_sdxl_promptbench160,3_frozen,inference,sdxl_frozen,/data1/cx/sdxl,PromptBench-160,benchmarks/promptbench_160.json,results/day1_stage3_frozen/sdxl_promptbench160/,planned,1xGPU,high,stage2,640 images (160x4 seeds)
+frozen_sd35_promptbench160,3_frozen,inference,sd35_medium_frozen,/data1/cx/sd35-medium,PromptBench-160,benchmarks/promptbench_160.json,results/day1_stage3_frozen/sd35_promptbench160/,planned,1xGPU,high,stage2,640 images
+frozen_flux_promptbench160,3_frozen,inference,flux_frozen,/data1/cx/flux,PromptBench-160,benchmarks/promptbench_160.json,results/day1_stage3_frozen/flux_promptbench160/,planned,1xGPU,high,stage2,~1h inference
+frozen_sdxl_databench500,3_frozen,inference,sdxl_frozen,/data1/cx/sdxl,DataBench-500,benchmarks/databench_500.json,results/day1_stage3_frozen/sdxl_databench500/,planned,1xGPU,high,stage2,500 images
+frozen_sd35_databench500,3_frozen,inference,sd35_medium_frozen,/data1/cx/sd35-medium,DataBench-500,benchmarks/databench_500.json,results/day1_stage3_frozen/sd35_databench500/,planned,1xGPU,high,stage2,500 images
+frozen_flux_databench500,3_frozen,inference,flux_frozen,/data1/cx/flux,DataBench-500,benchmarks/databench_500.json,results/day1_stage3_frozen/flux_databench500/,planned,1xGPU,high,stage2,Needs cpu_offload
+train_A1_sdxl_lora_baseline,4_training,training,sdxl,/data1/cx/sdxl,N/A,configs/day1_training_plan_sdxl_round1.json,train_logs/sdxl_round1/A1_baseline_lora/,planned,1xGPU,high,stage3,1500 steps
+train_B1_sdxl_lora_vpred,4_training,training,sdxl,/data1/cx/sdxl,N/A,configs/day1_training_plan_sdxl_round1.json,train_logs/sdxl_round1/B1_vpred_lora/,planned,1xGPU,high,stage3,v_prediction
+train_C1_sdxl_offset002,4_training,training,sdxl,/data1/cx/sdxl,N/A,configs/day1_training_plan_sdxl_round1.json,train_logs/sdxl_round1/C1_offset002_lora/,planned,1xGPU,high,stage3,offset=0.02
+train_C1_sdxl_offset005,4_training,training,sdxl,/data1/cx/sdxl,N/A,configs/day1_training_plan_sdxl_round1.json,train_logs/sdxl_round1/C1_offset005_lora/,planned,1xGPU,high,stage3,"offset=0.05, 2500 steps"
+train_C1_sdxl_offset008,4_training,training,sdxl,/data1/cx/sdxl,N/A,configs/day1_training_plan_sdxl_round1.json,train_logs/sdxl_round1/C1_offset008_lora/,planned,1xGPU,medium,stage3,offset=0.08

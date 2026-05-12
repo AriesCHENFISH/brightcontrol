@@ -1,0 +1,59 @@
+{
+  "default_inference": {
+    "resolution": 1024,
+    "fallback_resolution": 768,
+    "num_inference_steps": 30,
+    "guidance_scale": 7.5,
+    "sampler": "to_be_confirmed_after_smoke",
+    "sdxl_default_sampler": "DDIM",
+    "sd35_default_sampler": "DDIM",
+    "flux_default_sampler": "euler",
+    "promptbench_seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "databench_seed_list": [
+      42
+    ],
+    "safety_checker": "disabled_if_supported",
+    "precision": "fp16_or_bf16",
+    "save_images": true,
+    "save_metadata": true
+  },
+  "metrics": {
+    "luminance_mae": true,
+    "direction_success_rate": true,
+    "extreme_coverage_rate": true,
+    "histogram_wasserstein_distance": true,
+    "white_border_purity": true,
+    "black_border_purity": true,
+    "failure_rate": true,
+    "runtime": true,
+    "gpu_memory": true
+  },
+  "model_roles": {
+    "sdxl": "main_trainable_backbone_and_frozen_baseline",
+    "sd35_medium": "modern_frozen_baseline",
+    "flux": "modern_frozen_baseline",
+    "sd15": "legacy_anchor_if_available"
+  },
+  "evaluation_pipeline": {
+    "databench_eval": {
+      "metric": "luminance_mae",
+      "by_category": true,
+      "reference": "COCO_val2017_source"
+    },
+    "promptbench_eval": {
+      "metric": "direction_success_rate",
+      "by_category": true,
+      "base_reference": "sdxl_frozen"
+    },
+    "border_purity": {
+      "white_threshold": 0.9,
+      "black_threshold": 0.1,
+      "border_width": 1
+    }
+  }
+}

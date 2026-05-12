@@ -1,0 +1,3522 @@
+[
+  {
+    "sample_id": "PB160_extreme_dark_000",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "a candle-lit dinner table in a very dark room",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_001",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "an abandoned alley at midnight lit by a single street lamp",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_002",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "a rainy city street at night with neon reflections, very dark scene",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_003",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "a violinist playing on a dim stage with only one spotlight",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_004",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "three hikers standing under an almost black night sky, silhouette",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_005",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "a dark cave interior with a faint torch light",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_006",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "a cat sitting in a dim kitchen at night",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_007",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "a narrow street in heavy darkness with only distant lights",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_008",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "a lone figure walking through a pitch-black forest with only moonlight",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_009",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "an ancient library at midnight lit by a single flickering candle",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_010",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "a diver in the deep dark ocean with only a small flashlight",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_011",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "a photographer in a darkroom developing film under a red safelight",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_012",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "a basement room with a single bare lightbulb, heavy shadows",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_013",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "a moonlit cemetery with fog and barely visible gravestones",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_014",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "a stargazer on a hill under an almost black night sky",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_015",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "a deep underground mine shaft lit by helmet lamps",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_016",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "a dark cathedral interior with only stained glass window light",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_017",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "a submarine interior at night depths with dim instrument lights",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_018",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "an abandoned theater stage with one ghost light, total blackness around",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_dark_019",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_dark",
+    "prompt": "a cave explorer shining a headlamp at stalactites",
+    "negative_prompt": "",
+    "target_type": "dark",
+    "target_luminance": 0.18,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_000",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "a cozy bedroom flooded with bright morning sunlight",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_001",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "a snowy field under harsh midday sunlight, extremely bright",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_002",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "an overexposed studio portrait on a seamless white background",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_003",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "a beach at noon under intense sunlight, extremely bright",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_004",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "a white marble hallway filled with strong daylight",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_005",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "a city square under harsh summer noon light",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_006",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "a bright greenhouse interior with sunlight everywhere",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_007",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "a bright sunlit rooftop with washed-out highlights",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_008",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "a desert landscape under harsh midday sun, heat haze visible",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_009",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "a white sand beach at noon with blinding reflections on the water",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_010",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "a snow-covered mountain peak under the full sun at high altitude",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_011",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "an overexposed fashion photoshoot with white studio lights",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_012",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "a salt flat at noon reflecting brilliant white light",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_013",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "a greenhouse under intense sunlight with light flooding through glass",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_014",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "a stadium under powerful floodlights at a daytime event",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_015",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "an arctic research station under constant daylight, bright snow",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_016",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "a white marble plaza under direct tropical sun",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_017",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "a bright explosion of fireworks against a daytime sky",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_018",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "a sunlit cloud field from an airplane window, pure brightness",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_extreme_bright_019",
+    "benchmark": "PromptBench-160",
+    "category": "extreme_bright",
+    "prompt": "a high-key portrait against a pure white illuminated backdrop",
+    "negative_prompt": "",
+    "target_type": "bright",
+    "target_luminance": 0.82,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_000",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "a person standing in front of a bright window, strong backlighting, silhouette",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_001",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "tree branches against a glowing sunset sky, extreme backlighting",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_002",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "a cyclist riding toward the sun, strong lens flare, silhouette",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_003",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "a black cat standing in a bright doorway, strong backlighting",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_004",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "two dancers in front of stage lights, silhouette",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_005",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "a runner on the beach facing the low sun, silhouette",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_006",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "a child standing by a bright curtain, backlit portrait",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_007",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "a mountain hiker against the sun, silhouette",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_008",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "a lone warrior silhouette against a blazing orange sunset sky",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_009",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "a person standing at the end of a tunnel with bright light behind",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_010",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "two dancers silhouetted against a bright stage backlight",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_011",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "a bird in flight against the brilliant golden hour sun",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_012",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "a person looking out of a bright window in a dark room, silhouette",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_013",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "a tree silhouetted against a fiery red sunrise sky",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_014",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "a horse and rider silhouetted on a hilltop against sunset",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_015",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "a church cross silhouette against a bright dramatic sky",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_016",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "a couple holding hands silhouetted against the ocean horizon sunset",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_017",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "a city skyline silhouette against a golden twilight sky",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_018",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "a surfer silhouette against a bright sunset with ocean spray",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_backlight_silhouette_019",
+    "benchmark": "PromptBench-160",
+    "category": "backlight_silhouette",
+    "prompt": "a child with a balloon silhouetted against a bright cloudy sky",
+    "negative_prompt": "",
+    "target_type": "backlight",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_000",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a white ceramic mug product photo on a pure white background",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_001",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a minimalist black logo centered on a pure white background",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_002",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a red lipstick product photo on a pure white background",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_003",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a pair of sunglasses on a seamless pure white background",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_004",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a toy robot isolated on a pure white background",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_005",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a simple line-art icon centered on a pure white background",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_006",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a perfume bottle product photo on a pure white background",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_007",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a wristwatch isolated on a seamless pure white background",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_008",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a single red rose on a pure white background, studio lighting",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_009",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a glass of water on a pure white seamless backdrop",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_010",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a vintage film camera isolated on a pure white background",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_011",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a pair of running shoes on a pure white studio background",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_012",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a ceramic coffee cup on a pure white surface, product photography",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_013",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a single green leaf on a pure white background, botanical photo",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_014",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a silver pocket watch isolated on a pure white backdrop",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_015",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a red apple on a pure white background, commercial photography",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_016",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a gold ring displayed on a pure white surface, jewelry photo",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_017",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a blue butterfly specimen on a pure white background",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_018",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a wooden pencil isolated on a pure white surface",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_white_background_019",
+    "benchmark": "PromptBench-160",
+    "category": "white_background",
+    "prompt": "a single origami crane on a pure white background",
+    "negative_prompt": "",
+    "target_type": "white_bg",
+    "target_luminance": 0.9,
+    "background_purity_type": "white",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_000",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a luxury watch product photo on a pure black background",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_001",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a glass perfume bottle on a pure black background, studio lighting",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_002",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a gold ring isolated on a pure black background",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_003",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a crystal glass on a pure black background with reflections",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_004",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a black camera lens product shot on a pure black background",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_005",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a silver necklace isolated on a pure black background",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_006",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a wine bottle studio shot on a pure black background",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_007",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a candle in darkness on a pure black background",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_008",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a diamond ring on a pure black velvet background, dramatic lighting",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_009",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a glass of whiskey on a pure black background, low-key photography",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_010",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a glowing neon sign on a pure black background",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_011",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a silver necklace on a pure black velvet surface",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_012",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a single candle flame on a pure black background",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_013",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a crystal glass on a pure black backdrop, rim-lit",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_014",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a pocket watch with glowing face on a pure black background",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_015",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a violin isolated on a pure black background, dramatic spotlight",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_016",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a smoke tendril on a pure black background with rim light",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_017",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a glowing smartphone screen on a pure black background",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_018",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a perfume bottle on a pure black reflective surface",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_black_background_019",
+    "benchmark": "PromptBench-160",
+    "category": "black_background",
+    "prompt": "a burning match on a pure black background, single flame",
+    "negative_prompt": "",
+    "target_type": "black_bg",
+    "target_luminance": 0.1,
+    "background_purity_type": "black",
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "extended_from_promptbench40_day1",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_000",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a Tokyo alley at night bathed in colorful neon signs, wet pavement",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_001",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a cyberpunk street market at night with holographic signs and neon",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_002",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a cozy tent interior lit by a single lantern at night",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_003",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a night street food stall illuminated by warm string lights",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_004",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a medieval tavern lit by a roaring fireplace and candles at night",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_005",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a jazz bar at midnight with stage spotlights and cigarette smoke",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_006",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a campfire scene deep in the forest at night, stars above",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_007",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a retro diner at night with pink neon sign and window glow",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_008",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a night carnival with ferris wheel lights and neon game booths",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_009",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a lighthouse beam cutting through dense night fog over the sea",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_010",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a city rooftop at night with city lights reflecting on glass buildings",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_011",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a christmas market at night with fairy lights and glowing stalls",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_012",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a rainy neon street in Hong Kong at night with reflections",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_013",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a subway station at night with fluorescent lights and empty platforms",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_014",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a bonfire on a beach at night under the milky way",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_015",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a nightclub with vibrant neon lights and laser beams",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_016",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a cabin window glowing warmly in a snowy forest at night",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_017",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a bridge lit by rows of lamps at night reflecting on water",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_018",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a street musician under a single orange street lamp at twilight",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_night_candle_neon_019",
+    "benchmark": "PromptBench-160",
+    "category": "night_candle_neon",
+    "prompt": "a campfire circle in the desert at night with starry sky",
+    "negative_prompt": "",
+    "target_type": "dark_with_local_light",
+    "target_luminance": 0.3,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_000",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a person reading a book in a room with balanced natural window light",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_001",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a bowl of fruit on a kitchen table in normal daytime lighting",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_002",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a living room interior with balanced ambient lighting, afternoon",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_003",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a park bench in soft overcast daylight",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_004",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a coffee shop interior with normal warm indoor lighting",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_005",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a grocery store aisle in standard fluorescent lighting",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_006",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a person working at a desk in normal office lighting",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_007",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a garden scene in soft diffused daylight",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_008",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a library reading area with balanced natural and artificial light",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_009",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a classroom with standard overhead lighting and window light",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_010",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a dining table set for lunch in normal daytime room light",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_011",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a street scene on an overcast day with even soft lighting",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_012",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a bedroom in soft morning daylight without harsh contrast",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_013",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a museum gallery in standard exhibition lighting",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_014",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a person sitting on a sofa with balanced lamp and window light",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_015",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a bakery display counter in normal warm indoor lighting",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_016",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a park path on a cloudy day with even diffused light",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_017",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a restaurant interior during lunch with soft window light",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_018",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a home office setup in standard task and ambient lighting",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_neutral_control_019",
+    "benchmark": "PromptBench-160",
+    "category": "neutral_control",
+    "prompt": "a bookstore aisle with soft warm overhead lighting",
+    "negative_prompt": "",
+    "target_type": "neutral",
+    "target_luminance": 0.52,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_000",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a woman in a red dress holding a lantern in a dark forest",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_001",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a child reading a glowing book in a dark attic room",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_002",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a chef holding a flaming pan in a dimly lit restaurant kitchen",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_003",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a wizard casting a bright spell in a dark cave with sparkles",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_004",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a motorcycle headlight cutting through fog on a dark forest road at night",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_005",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a scientist examining a glowing crystal in a dark laboratory",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_006",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "two cats sitting on a windowsill overlooking a bright city at night",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_007",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a painter with an easel under harsh bright beach sunlight",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_008",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a musician playing a glowing neon guitar on a dark stage",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_009",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a hiker with a bright headlamp crossing a dark log bridge at night",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_010",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a photographer shooting a bright neon portrait in a dark studio",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_011",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a samurai in silhouette against a bright moon with cherry blossoms",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_012",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a bartender pouring a glowing cocktail in a dimly lit bar",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_013",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a spaceship cockpit with bright instrument panels in the dark of space",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_014",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a boxer in a dark ring lit by a single bright overhead spotlight",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_015",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a figure in a dark doorway holding a bright glowing sword",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_016",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a person in a dark room illuminated only by a bright laptop screen",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_017",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a tightrope walker silhouetted against a bright circus spotlight",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_018",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a fashion model in a bright white dress against a dark moody sky",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  },
+  {
+    "sample_id": "PB160_complex_semantic_brightness_019",
+    "benchmark": "PromptBench-160",
+    "category": "complex_semantic_brightness",
+    "prompt": "a diver exploring a dark shipwreck with a bright underwater flashlight",
+    "negative_prompt": "",
+    "target_type": "mixed",
+    "target_luminance": 0.45,
+    "background_purity_type": null,
+    "evaluation_focus": [
+      "luminance",
+      "direction_success"
+    ],
+    "seed_list": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "day1_generated",
+    "notes": ""
+  }
+]

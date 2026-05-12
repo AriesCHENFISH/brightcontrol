@@ -1,0 +1,126 @@
+{
+  "sdxl": {
+    "path": "/data1/cx/sdxl",
+    "exists": true,
+    "model_index_exists": true,
+    "detected_components": [
+      "scheduler",
+      "text_encoder",
+      "text_encoder_2",
+      "tokenizer",
+      "tokenizer_2",
+      "unet",
+      "vae",
+      "vae_1_0",
+      "vae_decoder",
+      "vae_encoder"
+    ],
+    "large_weight_files": [
+      {
+        "file": "sd_xl_base_1.0.safetensors",
+        "size_gb": 6.94
+      },
+      {
+        "file": "sd_xl_base_1.0_0.9vae.safetensors",
+        "size_gb": 6.94
+      },
+      {
+        "file": "sd_xl_offset_example-lora_1.0.safetensors",
+        "size_gb": 0.05
+      }
+    ],
+    "subdirs": [
+      ".cache",
+      "scheduler",
+      "text_encoder",
+      "text_encoder_2",
+      "tokenizer",
+      "tokenizer_2",
+      "unet",
+      "vae",
+      "vae_1_0",
+      "vae_decoder",
+      "vae_encoder"
+    ],
+    "status": "potentially_usable",
+    "notes": "",
+    "pipeline_class": "StableDiffusionXLPipeline",
+    "diffusers_version": "0.19.0.dev0"
+  },
+  "sd35_medium": {
+    "path": "/data1/cx/sd35-medium",
+    "exists": true,
+    "model_index_exists": true,
+    "detected_components": [
+      "scheduler",
+      "text_encoder",
+      "text_encoder_2",
+      "text_encoder_3",
+      "tokenizer",
+      "tokenizer_2",
+      "tokenizer_3",
+      "transformer",
+      "vae"
+    ],
+    "large_weight_files": [
+      {
+        "file": "sd3.5_medium.safetensors",
+        "size_gb": 5.11
+      }
+    ],
+    "subdirs": [
+      "scheduler",
+      "text_encoder",
+      "text_encoder_2",
+      "text_encoder_3",
+      "text_encoders",
+      "tokenizer",
+      "tokenizer_2",
+      "tokenizer_3",
+      "transformer",
+      "vae"
+    ],
+    "status": "potentially_usable",
+    "notes": "",
+    "pipeline_class": "StableDiffusion3Pipeline",
+    "diffusers_version": "0.30.3.dev0"
+  },
+  "flux": {
+    "path": "/data1/cx/flux",
+    "exists": true,
+    "model_index_exists": true,
+    "detected_components": [
+      "scheduler",
+      "text_encoder",
+      "text_encoder_2",
+      "tokenizer",
+      "tokenizer_2",
+      "transformer",
+      "vae"
+    ],
+    "large_weight_files": [
+      {
+        "file": "ae.safetensors",
+        "size_gb": 0.34
+      },
+      {
+        "file": "flux1-dev.safetensors",
+        "size_gb": 23.8
+      }
+    ],
+    "subdirs": [
+      ".cache",
+      "scheduler",
+      "text_encoder",
+      "text_encoder_2",
+      "tokenizer",
+      "tokenizer_2",
+      "transformer",
+      "vae"
+    ],
+    "status": "potentially_usable",
+    "notes": "",
+    "pipeline_class": "FluxPipeline",
+    "diffusers_version": "0.30.0.dev0"
+  }
+}
